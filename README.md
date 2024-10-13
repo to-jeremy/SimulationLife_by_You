@@ -1,76 +1,103 @@
-# SimulationLife_By_You
-Création d'un jeu de simulation de la vie réelle en cours de développement avec le langage Java.
+# 🏙️ SimulationLife_By_You
 
-<i>Version 1 :</i><br>
-=
+**_Jeu de simulation de la vie réelle en cours de développement avec Java_**
 
-<i>Lancement de la première version du mini jeu</i><br>
-    --> Création des différentes classes<br>
-    --> Création des méthodes des classes<br>
+---
 
-- Classes du jeu :<br>
-    <strong>=> Banques</strong><br>
-    - Banques
-    - Comptes bancaires ==> Joueurs, Entreprises
-    - Systèmes de crédits bancaires
+## 🌟 Version 1
 
-    <strong>=> Bâtiments</strong><br>
-    - Appartements
-    - Bâtiments (Commercial, Résidentiel)
-    - Caves
-    - Maisons
-    - Terrains
+### 🚀 Lancement de la première version du mini-jeu
+- ✅ **Création des différentes classes**
+- ✅ **Implémentation des méthodes des classes**
 
-    <strong>=> Entreprises</strong><br>
-    - Sociétés
-    - Usines
-    - Magasins
+---
 
-    <strong>=> États</strong><br>
-    - Départements
-    - Pays
-    - Quartiers
-    - Régions
-    - Villes
+## 🎮 Fonctionnalités principales
 
-    <strong>=> Joueurs</strong><br>
-    - Bots
-    - Joueurs
-    - Personnes
+### 💰 Banques
+- 🏦 Gestion des comptes bancaires (joueurs, entreprises)
+- 💳 Système de crédits bancaires
 
-    <strong>=> Système du jeu (non intéractif)</strong><br>
+### 🏠 Bâtiments
+- 🏢 Appartements
+- 🏬 Bâtiments commerciaux et résidentiels
+- 🏚️ Caves
+- 🏡 Maisons
+- 🌳 Terrains
 
-    <strong>=> Parkings</strong><br>
-    - Terrains de parkings
-    - Places de parkings
+### 💼 Entreprises
+- 🏭 Sociétés
+- 🏗️ Usines
+- 🏪 Magasins
 
-    <strong>=> Véhicules</strong><br>
-    - Avions
-    - Bateaux
-    - Motos
-    - Vélos
-    - Voitures
+### 🌍 États
+- 🇫🇷 Pays
+- 🌍 Régions
+- 🏙️ Départements
+- 🏙️ Villes
+- 🏘️ Quartiers
 
-- Méthodes des classes :<br>
-    <strong>=> Banques</strong><br>
-    
+### 👥 Joueurs et Bots
+- 👤 Gestion des joueurs et des bots
+- 🛠️ Création et gestion de personnages
 
-    <strong>=> Bâtiments</strong><br>
-    
+### 🔄 Système non interactif du jeu
+- ⚙️ Simulation des interactions économiques et sociales
 
-    <strong>=> Entreprises</strong><br>
-    
+### 🚗 Parkings
+- 🅿️ Terrains de parking
+- 🚗 Places de parking
 
-    <strong>=> États</strong><br>
-    
+### 🚘 Véhicules
+- 🚗 Voitures
+- 🏍️ Motos
+- 🚲 Vélos
+- ✈️ Avions
+- ⛵ Bateaux
 
-    <strong>=> Joueurs</strong><br>
-    
+---
 
-    <strong>=> Système du jeu (non intéractif)</strong><br>
+## 🛠️ Méthodes des classes
 
-    <strong>=> Parkings</strong><br>
-    
+### 💰 Banques
+- **Prêts bancaires** :
+  - 📝 Liste des prêts existants par compte bancaire
+  - 💵 Création de prêts pour une entreprise ou un joueur
+  - 💸 Remboursement de prêts avec intérêts
 
-    <strong>=> Véhicules</strong><br>
-    
+- **Comptes bancaires** :
+  - 🏦 Création et suppression de comptes bancaires
+
+- **Monnaies** :
+  - 💸 Dépôts et retraits d'argent sur un compte
+
+### 💼 Entreprises
+- **Gestion des entreprises** :
+  - 🏗️ Création d'entreprises, usines et magasins
+  - 🏭 Suppression d'usines ou magasins d'une entreprise
+
+- **Usines** :
+  - 📦 Ajout et suppression de produits dans l'entrepôt de l'usine
+  - 🏷️ Affichage et obtention du prix des produits disponibles
+
+- **Magasins** :
+  - 📦 Ajout et suppression de produits dans le magasin
+  - 🏷️ Affichage et obtention du prix des produits disponibles
+
+### 🌍 États
+- 🏛️ Création de pays, régions, départements, villes et quartiers
+
+### 🎮 Joueurs
+- **Possibilités** :
+  - 💼 Créer des entreprises, usines et magasins
+  - 🛒 Acheter des produits dans les magasins et usines
+
+---
+
+### 📝 Système de jeu (version textuelle)
+- Au début du développement, les parties sont simulées via des lignes de texte pour tester les fonctionnalités principales.
+
+---
+
+## 📅 Changelog
+- *Les mises à jour viendront prochainement*

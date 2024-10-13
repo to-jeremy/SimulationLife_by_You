@@ -231,7 +231,7 @@ public class GameInitialization {
                 }
             }
 
-            // Ajouter l'argent au compte du magasin)
+            // Ajouter l'argent au compte du magasin
             store.getBankAccount().deposit(productPriceS);
 
             System.out.println(player.getFullName() + " a acheté " + productName + " pour " + productPriceS + "€.");
